@@ -1,0 +1,21 @@
+﻿ID,Text,Non-Critical,Customer-Critical,Compliance-Critical,Business-Critical
+1,"Knowledgeable on client’s products	",0,1,0,0
+2,Correct identification of customer issue,0,1,0,0
+3,Correct information given to customer,0,1,0,0
+4,Correct use of client’s procedures,0,0,0,1
+5,"Logged all information correctly	",0,0,0,1
+6,Controlled the call,0,0,0,1
+7,"Length of call appropriate to request	",0,0,0,1
+8,Offered extended warranty (if appropriate),0,0,0,1
+9,"Correct verification before giving personal information	",0,0,1,0
+10,Ensured that all legal requirements were explained to customer,0,0,1,0
+11,Used proper greeting,1,0,0,0
+12,Asked for source code,1,0,0,0
+13,Restated reason for call,1,0,0,0
+14,"Used good grammar, avoids slang",1,0,0,0
+15,Sounded confident,1,0,0,0
+16,"Proper use of hold procedures	",1,0,0,0
+17,Listened attentively,1,0,0,0
+18,Used proper closing script,1,0,0,0
+19,Set correct expectation,1,0,0,0
+20,Thanked the customer for calling,1,0,0,0
